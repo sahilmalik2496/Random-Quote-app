@@ -1,0 +1,49 @@
+body {
+	background: #485b6e;
+    color: #fff;
+    font-family: 'Lato', Calibri, Arial, sans-serif;
+  text-align: center;
+
+}
+hr{
+  width: 600px;
+  height: 1px;
+}
+/* design for the title of the app */
+.title{
+    font-size: 50px;
+    margin-top: 180;
+    text-shadow: 0 0 10px #333;
+}
+/* font size for the main quotes */
+#quote{
+  font-size: 25px;
+}
+/* design for the author of the quote */
+.footer{
+  color: aliceblue;
+  font-size: 20px;
+}
+/* quote container where the quotes are displayed */
+.quote-box{
+  
+  font-size: 15px;
+  border: 1px ;
+  background-color: #7e9a9a;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+/* footer of the page */
+.footnote{
+  background-color: white;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  color: black;
+  padding: 0.3em;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
